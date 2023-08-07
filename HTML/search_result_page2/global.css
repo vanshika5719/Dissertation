@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-gray: #252525;
+  --color-darkslateblue: #2b2a4c;
+}

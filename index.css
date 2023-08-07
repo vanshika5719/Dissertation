@@ -1,0 +1,162 @@
+.login-account {
+  position: absolute;
+  top: 55px;
+  left: 305px;
+  font-size: 45px;
+  font-weight: 800;
+}
+.login-emailfield-child {
+  border: 1px solid var(--color-darkslateblue);
+  background-color: var(--color-white);
+  position: absolute;
+  height: 74.24%;
+  width: 100%;
+  top: 25.76%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.first-name {
+  position: relative;
+}
+.first-name-wrapper {
+  position: absolute;
+  height: 36.36%;
+  width: 9.41%;
+  top: 0;
+  right: 75.57%;
+  bottom: 63.64%;
+  left: 15.01%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login-emailfield {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.login-email {
+  position: absolute;
+  top: 306px;
+  left: 198px;
+  width: 563px;
+  height: 66px;
+}
+.first-name-container {
+  position: absolute;
+  height: 36.36%;
+  width: 17.09%;
+  top: 0;
+  right: 71.74%;
+  bottom: 63.64%;
+  left: 11.17%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login-passfield {
+  position: absolute;
+  height: 100%;
+  width: 112.38%;
+  top: 0;
+  right: -12.38%;
+  bottom: 0;
+  left: 0;
+}
+.login-pass {
+  position: absolute;
+  top: 432px;
+  left: 198px;
+  width: 505px;
+  height: 66px;
+}
+.login {
+  position: relative;
+  font-size: 30px;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+}
+.information,
+.login-wrapper {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 10px;
+  background-color: #b31312;
+  top: 639px;
+  left: 415px;
+  border-radius: var(--br-21xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.information {
+  top: 0;
+  left: 480px;
+  border-radius: var(--br-21xl) 0 0 var(--br-21xl);
+  background-color: var(--color-white);
+  width: 960px;
+  height: 1024px;
+  overflow: hidden;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  top: 556px;
+  left: 87.37px;
+  width: 662.15px;
+  height: 560.17px;
+}
+.vector-icon1 {
+  top: 0;
+  left: 0;
+  width: 597.26px;
+  height: 577.14px;
+}
+.your-ultimate-destination {
+  position: absolute;
+  top: 354px;
+  left: 101px;
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+  width: 275px;
+  height: 344px;
+}
+.screenhunt-1-icon {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 464px;
+  height: 189px;
+  object-fit: cover;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #ea906c;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-inter);
+}

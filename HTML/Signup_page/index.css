@@ -1,0 +1,225 @@
+.create-account {
+  position: absolute;
+  top: 55px;
+  left: 305px;
+  font-size: 45px;
+  font-weight: 800;
+}
+.create-account1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.create-account-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 10px;
+  background-color: #b31312;
+  position: absolute;
+  top: 847px;
+  left: 393px;
+  border-radius: 20px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 178px;
+  height: 47px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-1-child {
+  border: 1px solid var(--color-darkslateblue);
+  background-color: var(--color-white);
+  position: absolute;
+  height: 74.24%;
+  width: 100%;
+  top: 25.76%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.first-name {
+  position: relative;
+}
+.first-name-wrapper {
+  position: absolute;
+  height: 36.36%;
+  width: 18.83%;
+  top: 0;
+  right: 70.87%;
+  bottom: 63.64%;
+  left: 10.3%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-1 {
+  position: absolute;
+  top: 176px;
+  left: 198px;
+  width: 563px;
+  height: 66px;
+}
+.first-name-container {
+  position: absolute;
+  height: 36.36%;
+  width: 9.41%;
+  top: 0;
+  right: 75.57%;
+  bottom: 63.64%;
+  left: 15.01%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-31 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.component-3 {
+  position: absolute;
+  top: 380px;
+  left: 198px;
+  width: 563px;
+  height: 66px;
+}
+.first-name-frame {
+  position: absolute;
+  height: 36.36%;
+  width: 17.09%;
+  top: 0;
+  right: 71.74%;
+  bottom: 63.64%;
+  left: 11.17%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-41 {
+  position: absolute;
+  height: 100%;
+  width: 112.38%;
+  top: 0;
+  right: -12.38%;
+  bottom: 0;
+  left: 0;
+}
+.component-4,
+.frame-div {
+  position: absolute;
+  top: 477px;
+  left: 198px;
+  width: 505px;
+  height: 66px;
+}
+.frame-div {
+  height: 36.36%;
+  width: 18.47%;
+  top: 0;
+  right: 71.05%;
+  bottom: 63.64%;
+  left: 10.48%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-21 {
+  position: absolute;
+  height: 100%;
+  width: 158.59%;
+  top: 0;
+  right: -58.59%;
+  bottom: 0;
+  left: 0;
+}
+.component-2 {
+  position: absolute;
+  top: 283px;
+  left: 198px;
+  width: 355px;
+  height: 66px;
+}
+.subscriptions {
+  position: absolute;
+  top: 595px;
+  left: 100px;
+}
+.information,
+.select-interest {
+  position: absolute;
+  top: 660px;
+  left: 100px;
+}
+.information {
+  top: 0;
+  left: 480px;
+  border-radius: var(--br-21xl) var(--br-21xl) var(--br-21xl) var(--br-21xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 960px;
+  height: 1024px;
+  overflow: hidden;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  top: 600px;
+  left: 87.37px;
+  width: 662.15px;
+  height: 560.17px;
+}
+.vector-icon1 {
+  top: -150px;
+  left: -210px;
+  width: 597.26px;
+  height: 577.14px;
+}
+.your-ultimate-destination {
+  position: absolute;
+  top: 354px;
+  left: 101px;
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+  width: 275px;
+  height: 344px;
+}
+.screenhunt-1-icon {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 464px;
+  height: 189px;
+  object-fit: cover;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #ea906c;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-inter);
+}
